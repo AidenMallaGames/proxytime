@@ -6,7 +6,7 @@ https://special-xylophone-9xgj7jv7g54h7j7g-1234.app.github.dev/
 ## THESE IPS ARE POSSIBILTIES AND MAY NOT ALWAYS WORK !!
 
 ```bash
-git clone https://github.com/aidenmallagames/proxytime.git
+git clone https://github.com/theprox1masta/proxytime.git
 cd proxytime
 npm install
 npm start
